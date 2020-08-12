@@ -39,5 +39,25 @@ Pre-Requisites to run this project on your System are
 
 -Anaconda 
 
+-Jupyter Notebook Installed in your system
 
+    Jupyter notebook through your terminal is lighter option for your system.
 
+## Topics Covered in this
+### Introduction To Data Analysis And Visualization With Python
+1. Python List Vs Numpy Arrays
+1. Different Ways To Create Array In Numpy
+1. Handle Multi-Dimensional Array With Numpy
+1. Introduction To Pandas
+2. Data Analysis With Pandas
+3. Series And Data Frames
+4. Read CSV, Excel And Other Files With Pandas
+5. Exploratory Data Analysis With Pandas
+6. Statistical Analysis
+7. Mean, Median, Mode, Range, Variance, Standard Deviation
+7. Introduction To Data Visualization
+8. Plot Graphs With Matplotlib
+10. Plot Histograms, Bar Plot, Scatter Plot, Box Plot, Pie Charts Etc.
+11. 2D And 3D Plots With Matplotlib
+12. Introduction To Seaborn
+13. Making Graphs More Attractive With Seaborn
