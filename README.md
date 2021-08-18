@@ -61,3 +61,8 @@ Pre-Requisites to run this project on your System are
 11. 2D And 3D Plots With Matplotlib
 12. Introduction To Seaborn
 13. Making Graphs More Attractive With Seaborn
+ 
+ ---
+
+[![built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://www.linkedin.com/in/himaniaggarwal2/) [![smile please](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://github.com/himaniaggarwal2/)
+
