@@ -1,6 +1,6 @@
 # Machine-Learning
 This is my journey from the start to end when I learnt Machine Learning from start to end.
-Each .ipynb file represents my single day or the topic covred in that particular file
+Each .ipynb file represents my single day or the topic covred in that particular file. By this one can learn and can give a kickstart to the basic understanding of Machine Learnings. The codes offered are easily readable with short notes on the side.
 
 You can clone this into your system.
 
